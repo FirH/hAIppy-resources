@@ -8,3 +8,7 @@ https://raw.githubusercontent.com/FirH/hAIppy-resources/main/Introduction%20to%2
 https://raw.githubusercontent.com/FirH/hAIppy-resources/main/Introduction%20to%20Data%20Science/Figures/Tingkat%20Keselamatan%20Kelas%20x%20Jenis%20Kelamin.png
 https://raw.githubusercontent.com/FirH/hAIppy-resources/main/Introduction%20to%20Data%20Science/Figures/Tingkat%20Keselamatan%20per%20Kelas%20Tiket.png
 https://raw.githubusercontent.com/FirH/hAIppy-resources/main/Introduction%20to%20Data%20Science/Figures/Tingkat%20Keselamatan%20per%20Kelas%20dan%20Jenis%20Kelamin.png
+https://raw.githubusercontent.com/FirH/hAIppy-resources/main/Introduction%20to%20Data%20Science/Figures/Distribusi%20Jenis%20Kelamin%20Penumpang.png
+https://raw.githubusercontent.com/FirH/hAIppy-resources/main/Introduction%20to%20Data%20Science/Figures/Distribusi%20Kelas%20Penumpang.png
+https://raw.githubusercontent.com/FirH/hAIppy-resources/main/Introduction%20to%20Data%20Science/Figures/Distribusi%20Umur%20dan%20Harga%20Tiket%20Titanic.png
+https://raw.githubusercontent.com/FirH/hAIppy-resources/main/Introduction%20to%20Data%20Science/Figures/Proporsi%20Pelabuhan%20Keberangkatan.png
