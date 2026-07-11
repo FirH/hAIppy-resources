@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(which ffmpeg:*)",
+      "Bash(python3 -c \"from PIL import Image; print\\('pillow available'\\)\")",
+      "Bash(cd \"/media/firh/New Volume/github/hAIppy-resources/Introduction to Data Science/Figures\" && python3 -c \"\nfrom PIL import Image\nimport os, glob\n\nfor f in glob.glob\\('*.png'\\):\n    img = Image.open\\(f\\)\n    w, h = img.size\n    new_w, new_h = int\\(w * 0.75\\), int\\(h * 0.75\\)\n    resized = img.resize\\(\\(new_w, new_h\\), Image.LANCZOS\\)\n    resized.save\\(f\\)\n    print\\(f'{f}: {w}x{h} -> {new_w}x{new_h}'\\)\n\")",
+      "Bash(/home/firh/venvs/hAIppy/bin/python:*)",
+      "Bash(python3 *)",
+      "Bash(identify \"/media/firh/New Volume/github/hAIppy-resources/Machine Learning/Overfitting and Underfitting/1. Overfit Underfit Figure.png\")",
+      "Bash(convert \"/media/firh/New Volume/github/hAIppy-resources/Machine Learning/Overfitting and Underfitting/1. Overfit Underfit Figure.png\" -resize 1000x \"/media/firh/New Volume/github/hAIppy-resources/Machine Learning/Overfitting and Underfitting/1. Overfit Underfit Figure.png\")",
+      "Bash(git remote *)",
+      "Bash(identify \"/media/firh/New Volume/github/hAIppy-resources/Python Fundamentals I/Conditionals/1. Nested If Figure.png\")",
+      "Bash(convert *)"
+    ]
+  }
+}
