@@ -10,7 +10,16 @@
       "Bash(convert \"/media/firh/New Volume/github/hAIppy-resources/Machine Learning/Overfitting and Underfitting/1. Overfit Underfit Figure.png\" -resize 1000x \"/media/firh/New Volume/github/hAIppy-resources/Machine Learning/Overfitting and Underfitting/1. Overfit Underfit Figure.png\")",
       "Bash(git remote *)",
       "Bash(identify \"/media/firh/New Volume/github/hAIppy-resources/Python Fundamentals I/Conditionals/1. Nested If Figure.png\")",
-      "Bash(convert *)"
+      "Bash(convert *)",
+      "Bash(python -c \"import sklearn,pandas;print\\(sklearn.__version__, pandas.__version__\\)\")",
+      "Bash(python -c \"import nbformat, nbconvert; print\\('ok'\\)\")",
+      "Bash(python -c \"import dataframe_image; print\\('dfi ok'\\)\")",
+      "Bash(python \"/private/tmp/claude-501/-Users-rxmeder-Documents-GitHub-hAIppy-resources/6d34b971-98a5-4ee0-93f2-97903b55ca1e/scratchpad/build_nb.py\")",
+      "Bash(jupyter nbconvert *)",
+      "Bash(cd \"/Users/rxmeder/Documents/GitHub/hAIppy-resources/PPT/Feature Engineering\" && rm -f split_data_asli.png split_perbandingan_proporsi.png split_test_tanpa_stratify.png split_test_stratify.png split_train_stratify.png && python \"/private/tmp/claude-501/-Users-rxmeder-Documents-GitHub-hAIppy-resources/6d34b971-98a5-4ee0-93f2-97903b55ca1e/scratchpad/build_nb.py\" && jupyter nbconvert --to notebook --execute --inplace split_example_powerpoint_data.ipynb 2>&1 | tail -3 && ls split_*.png)",
+      "Bash(python -c ' *)",
+      "Bash(node scripts/validate_palette.js \"#3b6fd4,#d9534f\" --mode light)",
+      "Bash(cd \"/Users/rxmeder/Documents/GitHub/hAIppy-resources/PPT/Feature Engineering\" && rm -f korelasi_*.png && ls correlation_*.png korelasi_*.png 2>&1 | cat)"
     ]
   }
 }
