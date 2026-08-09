@@ -19,7 +19,12 @@
       "Bash(cd \"/Users/rxmeder/Documents/GitHub/hAIppy-resources/PPT/Feature Engineering\" && rm -f split_data_asli.png split_perbandingan_proporsi.png split_test_tanpa_stratify.png split_test_stratify.png split_train_stratify.png && python \"/private/tmp/claude-501/-Users-rxmeder-Documents-GitHub-hAIppy-resources/6d34b971-98a5-4ee0-93f2-97903b55ca1e/scratchpad/build_nb.py\" && jupyter nbconvert --to notebook --execute --inplace split_example_powerpoint_data.ipynb 2>&1 | tail -3 && ls split_*.png)",
       "Bash(python -c ' *)",
       "Bash(node scripts/validate_palette.js \"#3b6fd4,#d9534f\" --mode light)",
-      "Bash(cd \"/Users/rxmeder/Documents/GitHub/hAIppy-resources/PPT/Feature Engineering\" && rm -f korelasi_*.png && ls correlation_*.png korelasi_*.png 2>&1 | cat)"
+      "Bash(cd \"/Users/rxmeder/Documents/GitHub/hAIppy-resources/PPT/Feature Engineering\" && rm -f korelasi_*.png && ls correlation_*.png korelasi_*.png 2>&1 | cat)",
+      "Bash(cd \"/Users/rxmeder/Documents/GitHub/hAIppy-resources/PPT/Feature Engineering - Excercise\" && cp data_engineering_excercise_notebook.ipynb \"/private/tmp/claude-501/-Users-rxmeder-Documents-GitHub-hAIppy-resources/28f43acc-4c7a-428b-b08e-5a89b0340d9d/scratchpad/backup.ipynb\" && python3 \"/private/tmp/claude-501/-Users-rxmeder-Documents-GitHub-hAIppy-resources/28f43acc-4c7a-428b-b08e-5a89b0340d9d/scratchpad/build.py\")",
+      "Bash(md5 \"/Users/rxmeder/Documents/GitHub/hAIppy-resources/PPT/Feature Engineering - Excercise/data_engineering_excercise_notebook copy.ipynb\" \"/Users/rxmeder/Documents/GitHub/hAIppy-resources/PPT/Feature Engineering - Excercise/de_practice_backup.ipynb\" \"/private/tmp/claude-501/-Users-rxmeder-Documents-GitHub-hAIppy-resources/28f43acc-4c7a-428b-b08e-5a89b0340d9d/scratchpad/backup.ipynb\")"
+    ],
+    "additionalDirectories": [
+      "/Users/rxmeder/Documents/GitHub/hAIppy-resources/PPT/Feature Engineering - Excercise"
     ]
   }
 }
